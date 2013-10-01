@@ -1,0 +1,23 @@
+.mainBody{
+	width:1024px;
+	margin: auto;
+	border: 1px solid grey;
+	background-image:url('../pictures/vestigoBackground.png');
+}
+
+#logoImg{
+	float:right;
+}
+
+.mainContainer{
+	clear:both;
+	text-align:center;
+}
+
+#rezultatiHeading{
+	margin-left:10px;
+}
+
+.buttonWidth{
+	width:150px;
+}
